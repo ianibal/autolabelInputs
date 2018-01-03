@@ -1,0 +1,2 @@
+.autolabel{position:relative;display:inline-block;border-bottom:1px solid gray;padding:1.5em .3em .5em;transition:all 200ms ease}.autolabel input{padding:0;font-size:1em;border:none}.autolabel input:focus,.autolabel input:active{box-shadow:none;outline:none}.autolabel span{opacity:0;position:absolute;left:.3em;top:.5em;font-size:.7em;font-weight:bold;margin:0 0 .5em;transition:all 200ms ease}.autolabel.focused{border-color:tomato}.autolabel.show-label span{opacity:1}
+/*# sourceMappingURL=autolabel.css.map */
